@@ -6,7 +6,7 @@
   <link href="https://www.yuanzixuan.xin/atom.xml" rel="self"/>
   
   <link href="https://www.yuanzixuan.xin/"/>
-  <updated>2022-10-23T14:00:00.000Z</updated>
+  <updated>2024-12-28T09:15:43.933Z</updated>
   <id>https://www.yuanzixuan.xin/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>小站创立啦！！！</title>
+    <link href="https://www.yuanzixuan.xin/posts/28f27f15.html"/>
+    <id>https://www.yuanzixuan.xin/posts/28f27f15.html</id>
+    <published>2024-12-28T08:40:00.000Z</published>
+    <updated>2024-12-28T09:15:43.933Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="本站创立啦！"><a href="#本站创立啦！" class="headerlink" title="本站创立啦！"></a>本站创立啦！</h2><pre><code>2024年12月28日    16:40</code></pre>]]></content>
+    
+    
+    <summary type="html">我也不好说什么~</summary>
+    
+    
+    
+    <category term="演示" scheme="https://www.yuanzixuan.xin/categories/%E6%BC%94%E7%A4%BA/"/>
+    
+    
+    <category term="Markdown" scheme="https://www.yuanzixuan.xin/tags/Markdown/"/>
+    
+    <category term="外挂标签" scheme="https://www.yuanzixuan.xin/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
