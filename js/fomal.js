@@ -1124,10 +1124,10 @@ function createtime1() {
     `
 
 YY   YY                            ZZZZZ iii    XX    XX                         
-YY   YY uu   uu   aa aa nn nnn        ZZ         XX  XX  uu   uu   aa aa nn nnn  
- YYYYY  uu   uu  aa aaa nnn  nn      ZZ  iii      XXXX   uu   uu  aa aaa nnn  nn 
-  YYY   uu   uu aa  aaa nn   nn     ZZ   iii     XX  XX  uu   uu aa  aaa nn   nn 
-  YYY    uuuu u  aaa aa nn   nn    ZZZZZ iii    XX    XX  uuuu u  aaa aa nn   nn     
+YY   YY uu   uu  aaa aa nn nnn        ZZ         XX  XX  uu   uu   aa aa nn nnn  
+  YYY   uu   uu aa  aaa nn   nn      ZZ  iii      XXXX   uu   uu aa  aaa nn   nn 
+   Y    uu   uu aa  aaa nn   nn     ZZ   iii     XX  XX  uu   uu aa  aaa nn   nn 
+   Y     uuuu u  aaa aa nn   nn    ZZZZZ iii    XX    XX  uuuu u  aaa aa nn   nn     
 
 `,
     "小站已经苟活",
@@ -1283,7 +1283,7 @@ function share_() {
     // 截取标题
     var title = document.title;
     var subTitle = title.endsWith("| Fomalhaut🥝") ? title.substring(0, title.length - 14) : title;
-    navigator.clipboard.writeText('Fomalhaut🥝的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');
+    navigator.clipboard.writeText('YuanZixuan的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');
     new Vue({
       data: function () {
         this.$notify({
