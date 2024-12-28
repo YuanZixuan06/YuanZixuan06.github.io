@@ -5222,7 +5222,7 @@ mjx-container[display],
   border-radius: 5px !important;
 }
 [data-theme="dark"] #web_bg {
-  background: var(--darkmode-bg);
+  background: url('https://pic1.imgdb.cn/item/676fe2f5d0e0a243d4ebf2b9.webp');
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -5237,7 +5237,7 @@ mjx-container[display],
     background-repeat: no-repeat !important;
   }
   [data-theme="dark"] #web_bg {
-    background: var(--mobilenight-bg);
+    background: url('https://pic1.imgdb.cn/item/676fe4c8d0e0a243d4ebf32d.webp');
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
