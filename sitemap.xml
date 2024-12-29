@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.yuanzixuan.xin/posts/y0102.html</loc>
+    
+    <lastmod>2024-12-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.yuanzixuan.xin/posts/y0104.html</loc>
     
     <lastmod>2024-12-29</lastmod>
@@ -212,7 +221,7 @@
   </url>
   
   <url>
-    <loc>https://www.yuanzixuan.xin/tags/%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://www.yuanzixuan.xin/tags/%E8%8A%82%E5%A5%8F/</loc>
     <lastmod>2024-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -220,6 +229,13 @@
   
   <url>
     <loc>https://www.yuanzixuan.xin/tags/%E9%9F%B3%E7%A8%8B/</loc>
+    <lastmod>2024-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yuanzixuan.xin/tags/%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2024-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
