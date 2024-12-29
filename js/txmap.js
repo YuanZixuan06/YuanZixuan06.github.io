@@ -9,7 +9,6 @@ $.ajax({
     dataType: 'jsonp',
     success: function (res) {
         ipLoacation = res;
-        console.log(ipLoacation)
     }
 })
 function getDistance(e1, n1, e2, n2) {
@@ -73,7 +72,17 @@ function showWelcome() {
                     posdesc = "山势巍巍成壁垒，天下雄关。铁马金戈由此向，无限江山。";
                     break;
                 case "山西省":
-                    posdesc = "展开坐具长三尺，已占山河五百余。";
+                    switch (ipLoacation.result.ad_info.city) {
+                        case "太原市":
+                            posdesc = "蒸拧了！";
+                            break;
+                        case "大同市":
+                            posdesc = "大脱人你好！";
+                            break;
+                        default:
+                            posdesc = "人说山西好风光，地肥水美五谷香。";
+                            break;
+                    }
                     break;
                 case "内蒙古自治区":
                     posdesc = "天苍苍，野茫茫，风吹草低见牛羊。";
@@ -93,7 +102,7 @@ function showWelcome() {
                 case "江苏省":
                     switch (ipLoacation.result.ad_info.city) {
                         case "南京市":
-                            posdesc = "这是我挺想去的城市啦。";
+                            posdesc = "朱雀桥边野草花，乌衣巷口夕阳斜。";
                             break;
                         case "苏州市":
                             posdesc = "上有天堂，下有苏杭。";

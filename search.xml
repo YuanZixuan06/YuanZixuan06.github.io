@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>（一）音程</title>
+      <link href="/posts/9b9e8413.html"/>
+      <url>/posts/9b9e8413.html</url>
+      
+        <content type="html"><![CDATA[<h1>音程</h1><h2 id="一些小概念">一些小概念</h2><ol><li>音程：两个音之间的距离，抽象。</li><li>度数：两个音，从低的音开始往高处数音名字母，一直数到高的音，有几个音名字母就是几度。<div class="note info simple"><p>注意：字母不能重复、不能遗漏。</p></div></li><li>根音、冠音：音程中，低的那个音称作“根音”，高的那个音称作“冠音”。</li><li>音数：用来表示两个音之间有多少个全音与半音，用数字更精确地描述两音的距离。“1”代表全音，“½”代表半音。</li><li>等音程：音数相同，但音程不同的两个音程互为等音程。</li></ol><h2 id="音程的类型">音程的类型</h2><ol><li>大、小、纯音程<br>​                               <img src="/assets/yueli/yincheng/1.png" alt="示例图片" /></li><li>增、减、倍增、倍减音程<br>​二、三、六、七度：<img src="/assets/yueli/yincheng/2.png" alt="image-20241229115717456" style="zoom:25%;" /><br>​一、四、五、八度：<img src="/assets/yueli/yincheng/3.png" alt="image-20241229115751860" style="zoom:25%;" /></li><li>音数与音程对应总结<br><img src="/assets/yueli/yincheng/4.png" alt="image-20241229115717456" /><br>​※   不存在减一度、倍减一度、倍减二度这样的音程；同一行的音程互为等音程。</li><li>快速识别音程<br>（1）  不含变音记号：通过数这两个音之间包含了几个E-F/B-C来判断。<br>（2）   含有变音记号：先忽略升降号，判断这两个字母是什么音程，再加回升降号，思考距离变大还是变小。<br>​      Eg：① C-F♯：C-F是纯四度，F♯扩大½，比纯四度大½的是增四度，所以C-F♯就是增四度。<br>​          ② E♭♭-C♯：E-C是小六度，E♭♭扩大1，C♯扩大½，总体上在小六度上扩大3次，所以是倍增六度。</li></ol><table><thead><tr><th style="text-align:center"><strong>度数</strong>  <strong>几个</strong></th><th style="text-align:center"><strong>不包含</strong></th><th><strong>含一个</strong></th><th style="text-align:center"><strong>含两个</strong></th></tr></thead><tbody><tr><td style="text-align:center"><strong>一度</strong></td><td style="text-align:center"><strong>纯一度</strong></td><td></td><td style="text-align:center"></td></tr><tr><td style="text-align:center"><strong>二度</strong></td><td style="text-align:center"><strong>大二度</strong></td><td><strong>小二度</strong></td><td style="text-align:center"></td></tr><tr><td style="text-align:center"><strong>三度</strong></td><td style="text-align:center"><strong>大三度</strong></td><td><strong>小三度</strong></td><td style="text-align:center"></td></tr><tr><td style="text-align:center"><strong>四度</strong></td><td style="text-align:center"><strong>增四度</strong></td><td><strong>纯四度</strong></td><td style="text-align:center"></td></tr><tr><td style="text-align:center"><strong>五度</strong></td><td style="text-align:center"></td><td><strong>纯五度</strong></td><td style="text-align:center"><strong>减五度</strong></td></tr><tr><td style="text-align:center"><strong>六度</strong></td><td style="text-align:center"></td><td><strong>大六度</strong></td><td style="text-align:center"><strong>小六度</strong></td></tr><tr><td style="text-align:center"><strong>七度</strong></td><td style="text-align:center"></td><td><strong>大七度</strong></td><td style="text-align:center"><strong>小七度</strong></td></tr><tr><td style="text-align:center"><strong>八度</strong></td><td style="text-align:center"></td><td></td><td style="text-align:center"><strong>纯八度</strong></td></tr></tbody></table><ol start="5"><li>超过八度的音程<br>判断方法：将两个音移到同一个八度内，切记不要改变高低顺序，判断是“【什么】【几】度”，然后每提高一个八度，度数加7即为原来的音程。<br>※     Q：为何加7而不是加8？  A：如下，加8就多数了一次。<br><img src="/assets/yueli/yincheng/5.png" alt="image-20241229120218404" style="zoom:50%;" /></li><li>音程的简写<br>※   大- <strong>M</strong>ajor 小-<strong>m</strong>inor 增-<strong>A</strong>ugmented 减-<strong>D</strong>iminished 纯- <strong>P</strong>erfect (<strong>P</strong>ure)<br>Eg：M3-大三度；m7-小七度；A5-增五度；D6-减六度；P4-纯四度</li><li>三全音<br>三全音是“增四度”与“减五度”的别称，极为不协和。</li></ol><h2 id="协和与不协和音程">协和与不协和音程</h2> <img src="/assets/yueli/yincheng/6.png" alt="image-20241229120309900" style="zoom:67%;" /><h2 id="音程的转位">音程的转位</h2><ol><li>音程的转位：改变音的高低顺序。<br>Eg：    C-E                                              →                                                      E-C<br><img src="/assets/yueli/yincheng/7.png" alt="image-20241229120345981" style="zoom: 67%;" />       <strong>……</strong><br>​                                                     一般而言，一个音不动，转位后在一个八度内</li><li>转位的判断<br>①    可以根据转位判断原位音程的名字。<br>【大↔小，纯↔纯，增↔减，倍增↔倍减；原位与转为度数之和为9】<br>Eg：           E-A♯                →                  A♯-E<br>​         <img src="/assets/yueli/yincheng/8.png" alt="image-20241229120520019" style="zoom:67%;" /><br>​               增四度                 →                减五度<br>②    增七度、倍增七度、纯八度、增八度、倍增八度不能直接套用上述方法。<br>③    度数&gt;8的音程，先缩小到同一八度内，再执行①。</li></ol><h2 id="音高">音高</h2><ol><li>记谱音高<br><img src="/assets/yueli/yincheng/9.png" alt="image-20241229120520019" /></li><li>实际音高<br>​男声是低八度移调乐器（实际唱的音高比记谱音高低八度）。</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 乐理笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 音程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>小站创立啦！！！</title>
       <link href="/posts/28f27f15.html"/>
       <url>/posts/28f27f15.html</url>
