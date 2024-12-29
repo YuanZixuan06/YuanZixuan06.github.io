@@ -7506,13 +7506,13 @@ button#go-up:hover #percent {
 .el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(
     1
   ):before {
-  content: "输入QQ号会自动获取昵称和头像🐧";
+  content: "起一个好听的名字吧~";
 }
 
 .el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(
     2
   ):before {
-  content: "收到回复将会发送到您的邮箱📧";
+  content: "用QQ邮箱会自动获取头像🐧";
 }
 
 .el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(
