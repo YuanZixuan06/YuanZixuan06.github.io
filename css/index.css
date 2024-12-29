@@ -9190,6 +9190,7 @@ figure.highlight pre .deletion {
 #newYear {
   color: white;
   padding: 0 !important;
+  text-shadow: 0 0 5px #ffffff;
 }
 
 #newYear p,
@@ -9244,7 +9245,7 @@ figure.highlight pre .deletion {
   top: 0;
   height: 100%;
   width: 100%;
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: rgba(0, 0, 0, 0.45);
 }
 
 /* 夜间模式友链文字颜色 */
