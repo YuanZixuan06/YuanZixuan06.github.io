@@ -59,3 +59,65 @@
     width: 100%;
     background-color: rgba(0, 0, 0, .1);
 }
+
+/* 最新字体，加载不出来，不懂。。。 */
+/* 
+@font-face {
+    font-family: 'TTQHB';
+    src: url(/source/fonts/甜甜圈海报字体.woff2);
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'LXGW';
+    src: url(/source/fonts/霞鹜文楷.woff2);
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'YSHST';
+    src: url(/source/fonts/优设好身体.woff2);
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: '筑紫A丸by宁静之雨';
+    src: url(/source/fonts/筑紫A丸by宁静之雨.woff2);
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Consolas_1';
+    src: url(/source/fonts/Consolas.woff2);
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'HYTMR';
+    src: url(/source/fonts/HYTangMeiRen55W.woff2);
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'MiSans';
+    src: url(/source/fonts/MiSans.woff2);
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'SourceCodePro';
+    src: url(/source/fonts/SourceCodePro.woff2);
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'ZhuZiAWan';
+    src: url(/source/fonts/ZhuZiAWan2.woff2);
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'ZhuZiAYuanJWD';
+    src: url(/source/fonts/ZhuZiAYuanJWD.woff2);
+    font-display: swap;
+  } */
